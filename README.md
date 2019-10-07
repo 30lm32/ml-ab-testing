@@ -40,6 +40,11 @@
 ## Two-tailed, Left-tailed, Right Tailed Hypothesis Testing
 ![](https://i.ytimg.com/vi/DlwOTOydeyk/maxresdefault.jpg)
 
+## Two-sample z test for Difference Between Means
+![](https://slideplayer.com/slide/3605887/13/images/11/Two+Sample+z-Test+for+the+Difference+Between+Means.jpg)
+![](https://image.slideserve.com/910838/2-sample-z-test-known-variances-summary-n.jpg)
+![](https://slideplayer.com/slide/7708373/25/images/17/Solution%3A+Two-Sample+z-Test+for+the+Difference+Between+Means.jpg)
+
 ## Example in Signal Detection with Diffrent Explanation
 ![](https://image.slidesharecdn.com/radar-2009-a6-detection-of-signals-in-noise-160213204027/95/radar-2009-a-6-detection-of-signals-in-noise-7-638.jpg?cb=1455396066)
 ## Hit, Miss, False Alarm, Correct Rejection and ROC Curve
