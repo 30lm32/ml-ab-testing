@@ -40,6 +40,11 @@
 ## Two-tailed, Left-tailed, Right Tailed Hypothesis Testing
 ![](https://i.ytimg.com/vi/DlwOTOydeyk/maxresdefault.jpg)
 
+
+## A/B Testing
+![](https://receiptful-blog-staging.s3.amazonaws.com/2015/Apr/a_b_testing-1430250346717.jpg)
+![](https://foxutech.com/wp-content/uploads/2018/10/AB-deployment.png)
+
 ## Two-sample z test for Difference Between Means
 ![](https://slideplayer.com/slide/3605887/13/images/11/Two+Sample+z-Test+for+the+Difference+Between+Means.jpg)
 ![](https://image.slideserve.com/910838/2-sample-z-test-known-variances-summary-n.jpg)
