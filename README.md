@@ -36,6 +36,11 @@
 ![](http://psychstat3.missouristate.edu/Documents/IntroBook3/images/errors05.gif)
 ![](https://www.researchgate.net/profile/Bruno_Ruettimann/publication/276166727/figure/fig3/AS:616389672972290@1523970158195/Relation-between-Alpha-and-Beta-risk-to-detect-an-effect-Delta.png)
 
+## Effect Size (ES) for Power Calculation
+![](https://1.bp.blogspot.com/-iG4emdlONV8/XCA0QJVKm_I/AAAAAAAABTU/j0ouFrrVXhMwDvHip14IcsSJKWgje_TjwCLcBGAs/s1600/ES.png)
+
+## Effect Size (ES) Relationship with Power
+![](http://www.designexperiments.org/wp-content/uploads/2015/09/larger_effect_size.gif)
 
 ## Two-tailed, Left-tailed, Right Tailed Hypothesis Testing
 ![](https://i.ytimg.com/vi/DlwOTOydeyk/maxresdefault.jpg)
@@ -57,3 +62,8 @@
 ![](http://gru.stanford.edu/lib/exe/fetch.php/tutorials/neuraldprime.png?w=&h=&cache=cache)
 ![](https://www.cns.nyu.edu/~david/courses/perception/lecturenotes/sdt/ROC.gif)
 
+
+<!-- https://www.statisticssolutions.com/statistical-analyses-effect-size/ -->
+
+<!-- https://machinelearningmastery.com/statistical-power-and-power-analysis-in-python/ -->
+<!-- https://machinelearningmastery.com/effect-size-measures-in-python/ -->
