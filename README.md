@@ -11,4 +11,4 @@ In this project, A/B testing was performed on Udacity's Course dataset. It consi
 
  We once simulated some experiments N times with respect to the conversion rates (`control, treatment`) already obtained over dataset. After got the further idea about dataset with this simulation, we supposed a null hypothesis and an alternative thesis. To claim our trueness of alternative hypothesis, we calculated z critical score by using `Z test` method with respect to alpha (0.05), and then we checked out beta, and power with respect to the effect size of the experiment.
 
-Please, note that you may check out [`ab_test.md`](/ab_test.md) to get the further information about hypothesis test and A/B testing with some important photos.
+Please, note that you may check out [`README.md`](/docs/README.md) under `docs` to get the further information about hypothesis test and A/B testing with some important photos.
